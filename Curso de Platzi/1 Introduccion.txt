@@ -1,0 +1,164 @@
+definicion{
+    El cómputo forense, también llamado informática forense,
+    computación forense, análisis forense digital o examen 
+    forense digital es la aplicación de técnicas científicas 
+    y analíticas especializadas a infraestructuras tecnológicas
+    que permiten identificar, preservar, analizar y presentar 
+    datos válidos dentro de un proceso legal.
+}
+técnicas{
+    reconstruir elementos informáticos, 
+    examinar datos residuales, 
+    autenticar datos y 
+    explicar las características técnicas
+    del uso de datos y bienes informáticos 
+    a personas no tecnicas.
+}
+no solo hace uso de tecnologías de punta 
+para mantener la integridad de los datos y 
+del procesamiento de los mismossino que 
+también requiere de una especialización y 
+conocimientos avanzados en materia de informática y 
+sistemas para poder detectar qué ha sucedido 
+dentro de cualquier dispositivo electrónico. 
+
+La formación del informático forense 
+abarca no solo el conocimiento del software 
+sino también de hardware, redes, seguridad,
+piratería, craqueo y recuperación de información.
+
+utilidad{
+    detectar pistas sobre ataques informáticos, 
+    robo de información, 
+    conversaciones 
+    evidencias en correos electrónicos y chats.
+}
+
+Etapas I y II{
+    identificacion{
+        definicion{
+            detectar reconocer y determinar las fuentes de imformacion 
+            que deben ser preservadas par una investigacion
+        }
+        veremos 6 preguntas importantes para hacernos
+        preparacion de herramientas{
+            un kit de herramientas adecuadas para 
+            hacer las adquisiciones
+        }
+        primer respondiente{
+            quien es?
+            que debe hacer?
+        }
+        tomar decisiones{
+            adquisiciones en vivo o estaticas
+        }
+        resultados{
+            cadena de custodia
+            inventario de fuentes
+        }
+    }
+    preservacion{
+        definicion{
+            recoleccion de informacion de 
+            dispositivos de datos, para
+            generar copias exactas
+            usando tecnicas forenses 
+        }
+        medios de almacenamiento{
+            que son ?
+            cuales usamos comunmente?
+            como funcionan?
+        }
+        imagenes forense?{
+            definicion
+            ejemplos
+            uso comun
+        }
+        adquisicion de imagenes forenses{
+            FTK imager
+            Paladin Forensics
+            EnCase Imager
+            entre otras tecnicas
+        }
+        algoritmos Hash{
+            que son y por qué los utilizamos?
+        }
+        resultados{
+            imágenes forenses
+            reportes de adquisicion y evaluacion
+
+        }
+
+    }
+}
+Etapas III y IV{
+    Analisis{
+        Definicion{
+            procesamiento de informacion ralacionada con 
+            el objetivo de la investigacion con 
+            el fin de determinar hecho asociados con un evento
+        }
+        Analisis preliminar{
+            filtrar la informacion y
+            darles prioridad a los mas importantes
+            resultado de analisis preliminar{
+                informacion filtrada
+                repote preliminar de analisis
+            }
+        }
+        Sistemas de archivos{
+            que son 
+            cuales usamos comunmente
+            como funcionan
+        }
+        Imagenes parciales{
+            clasificacion de datos para analisis
+        }
+        Exportacion de archivos{
+            separacion de informacion
+        }
+        Analisis de usuarios de sistemas{
+            que usuarios an estado activos en el sistema
+        }
+        Analisis de logs y prosesos ejecutados{
+            reconstruccion de la actividad del OS
+        }
+        Recuperacion de archivos borrados{
+            recontruccion y procesos de data carving
+        }
+        Artefactos especificos de sistemas{
+            diferencias entre Windows y Unix
+        }
+        Resultados del analisis general{
+            resultados generales de la investigacion
+            posibles fuentes adicionales de consultas
+        }
+    }
+    Presentacion{
+        Definicion{
+            entregar los resultados con un lenguaje adecuado 
+            en formas de reportes a las partes interesadas o
+            autoridades que los requieran
+        }
+        Organizar la informacion{
+            que incluir y que no 
+            como presentar los resultados y
+            que decir
+        }
+        Creacion de un informe tecnico{
+            que detalles debemos incluir
+        }
+        Creacion de un informe ejecutivo{
+            que lenguaje debemos utilizar
+            como resumir nuestros hallazgos
+        }
+        Presentacion ante autoridades{
+            consejos y recomendaciones
+        }
+        Resultados de la etapa de presentacion {
+            informe tecnico
+            informe ejecutivo
+            
+        }
+    }
+}
